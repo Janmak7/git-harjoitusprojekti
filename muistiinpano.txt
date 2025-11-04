@@ -11,3 +11,5 @@ Feature B: Lisätty osio git stash komennosta
 Tämä rivi muuttui ja konflikti ratkaistiin
 
 Tämä rivi on keskeneräinen ja tallennetaan stashilla
+
+Virheellinen lisäys
