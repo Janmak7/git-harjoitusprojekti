@@ -7,3 +7,5 @@ Kuudes rivi: testaan git stashia ja revertiä myöhemmin
 
 Feature A: lisätty uusi osio projektin kehittämistä varten
 Feature B: Lisätty osio git stash komennosta
+
+Tämä rivi muuttuu päähaarassa
