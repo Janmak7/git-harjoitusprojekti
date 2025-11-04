@@ -1,1 +1,2 @@
 Ensimmäinen versio muistiinpanoista
+Toinen rivi: harjoittelen gitin käyttöä
