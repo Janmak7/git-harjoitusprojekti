@@ -1,0 +1,1 @@
+Tämä projekti on harjoitus gitin ja githubin käytöstä
