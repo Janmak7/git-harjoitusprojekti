@@ -2,3 +2,4 @@ Ensimmäinen versio muistiinpanoista
 Toinen rivi: harjoittelen gitin käyttöä
 Kolmas rivi: opin tekemään committeja
 Neljäs rivi: seuraavaksi teen haaroja
+Viides rivi: opin tekemään mergejä
